@@ -29,30 +29,37 @@ Omdat ze dus met componenten werken, luidde de programmeervraag: hoeveel compone
 
 ## weekly-nerd-5: Valtech
 *DATUM: 22/05/2019*
-  - Tweede project van de minor ook voor valtech, dus al een keer binnen geweest en wist wat ze deden
-  - Beetje vaag gesprek 
-  - Veel code uitgelegd wat ik eigenlijk al snapte, ipv vertellen over bedrijf
+De vijfde weekly-mingle op onze lijst is het bedrijf Valtech. Omdat ik voor het tweede project van de minor een website van Valtech (www.volkwagen) heb opgeschoond, ben ik er dus al eerder geweest. Dit betekende daarom niet dat ik precies wist wat het bedrijf in hield.
+
+We werden netjes ontvangen en naar dezelfde kamer geleid waar we ook tijdens het tweede project waren. Hier werd er een kort filmpje over Valtech laten zien en daarna werd het filmpje nog een beetje toegelicht. Valtech is eigenlijk een extreem divers bedrijf, die zich richt op front- en back-end, maar ook op veel nieuwe technieken en hardware zoals VR/AR, Domotica en het leven makkelijk maken. Dit spreekt mij wel aan, omdat ik me in de toekomst wil richten op het maken/bedenken van nieuwe technieken.
+
+Na de introductie over het bedrijf kregen we een kleine code-review over hoe ze bij Valtech te werk gaan. Dit is ook extreem interresant, omdat het verschil tussen school en werk voor mij nog niet helemaal duidelijk is.
 
 ## weekly-nerd-6: Mirabeau
 *DATUM: 29/05/2019*
-  - Twee kantoren (1 in rotterdam)
-  - Leuke projectzaal voor stage
-  - Elk kantoor een sensor, wat wordt verwerkt op een dashboard
+Voor het zesde bedrijf ben ik samen met Karin (omdat de rest van de groep ziek was) afgereisd naar Mirabeau. Bij aankomst was het eerste wat mij opviel het grote scherm met daar boven een camera. Als je voor het scherm ging staan, raadde het scherm je leeftijd (op basis van algoritmes). Dit spreekt me meteen aan, omdat dit betekend dat ze niet alleen bezig zijn met frond-end van websites.
+
+Vervolgens werden we door een werknemer begeleid naar een tafel boven waar hij ons heeft verteld over het bedrijf. Het bedrijf heeft namelijk twee kantoren; in Amsterdam en in Rotterdam. 
+
+Mirabeau doet dus niet alleen aan front-end, maar juist het bouwen van slimme hard- en software. Zo hebben ze in elke kamer een sensor die extreem veel data meet, zoals temperatuur, luchtvochtigheid, geluid, alcoholpersentage en nog veel meer. Deze data gebruiken ze op een groot dashboard in de werkkamer, om bijvoorbeeld aan te geven of een kamer gebruikt wordt en of er alcohol gedronken wordt.
+
+Daarna zijn we naar de 'stage-kamer' geweest. Dit was een grote kamer in het gebouw waar alle stagairs aan het werk waren. Er was van alles te zien: een koffieapparaat waarbij je eerst moet lachen voordat je koffie krijgt, een 3d printer, allemaal hardware, een google home die de kamer-data gebruikte en nog veel meer. Dit sprak mij wel aan, omdat het mij ook leuk lijkt om een eigen hard- en software product te maken tijdens mijn stage.
 
 ## weekly-nerd-7: Q42
   *DATUM: 05/06/2019*
-- Super fijne werksfeer
-- Aardige mensen
-- Glijbaan
-- Q42 = queston to life
-- Leuke en diverse projecten
-- Tijd om aan eigen project te werken
-- Zelf nadenken, ipv klakkeloos klant overnemen
+ De zevende en mijn favoriete bedrijf van alle weekly-mingles was het bedrijf Q42. Bij aankomst viel me meteen op dat ze er niet alleen bezig zijn met front-end, maar met meer dan dat. In de presentatie werd verteld dat ze bezig zijn met apps, websites, connected devices, games, robots, internet of things, VR voice-assistant en nog veel meer. Ook werd er verteld dat je zelf invloed hebt op welke opdracht je mee bezig gaat, en dat je twee betaalde uren per week hebt om nieuwe technieken te leren/lezen, of bezig te zijn met een eigen project.
+
+Het gene wat mij het meeste aansprak aan het bedrijf Q42, is dat ze zelf heel veel meedenken met het product dat ze gaan maken. Ze nemen dus niet precies over wat de klant wil, maar realiseren het wel op eigen (en dus weloverwogen) manier. Dit vind ik zelf ook heel belangrijk aan een stageplek/bedrijf, omdat je dan zelf mee denkt in de workflow van het uiteindelijke product.
+
+Al met al was het super interresant en staat deze op mijn nummer 1 weekly-mingles!
 
 ## weekly-nerd-8: Matise
 *DATUM: 12/06/2019*
-- netjes verwelkomd
-- staat bekend om uitzicht op dierentuin
-- hond
-- projecten laten zien
-- hoe de uren worden ingedeeld en bijgehouden
+Onze laatste weekly-mingle was bij 'het bedrijf met uitzicht op olifanten', namelijk Matise. Matise is ten noorde van dierentuin Artis gelokaliseerd. Dit maakt het bedrijf uniek, omdat ze een uitzicht hebben over de dieren daar. Om in het thema te blijven, waren ze ook het enige bedrijf met een 'bedrijfshond'. Dit sprak mij aan omdat ik heel erg van honden hou, en je dan ook af en toe met je hoofd ergens anders mee bezig bent.
+
+Naast alle dieren, sprak het bedrijf Matise mij minder aan. Het kwam er op neer dat ze vooral de front-end van hun klanten realiseren, wat ik persoonlijk minder interresant vind. Wel was het interresant om te horen hoe ze op kantoor werkuren bijhouden, en hoe de projectmanager aan het begin van elke week van alle werknemers haar uren inplande.
+
+## Conclusie
+Ik wil graag alle bedrijven bedanken voor de moeite en alle leerzame en interresante verhalen. Voor de weekly-mingles had ik geen idee hoe het 'echte' werkleven verschilt van de schoolprojecten die je maakt. Daarom waren deze weekly-mingles voor mij super leerzaam.
+
+Tot slot wil ik graag Joost en Vasilis bedanken voor de top geregelde organisatie.
