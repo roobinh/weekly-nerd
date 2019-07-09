@@ -1,9 +1,9 @@
 # Introduction to Mongoose
 
 ## What is Mongoose?
-Mongoose is a MongoDB ODM (Object Document Mapping) for nodejs. It provides a simple straight-forward, schema based solution to help you interact with your MongoDB database. MongoDB acts as an intermediate between NodeJS and your MongoDB database.
+Mongoose is a MongoDB ODM (Object Document Mapping) for nodejs. It provides a simple, straight-forward, schema based solution to help you interact with your MongoDB database. MongoDB acts as an intermediate between NodeJS and your MongoDB database.
 
-## What is MongoDB?
+## But, what is MongoDB?
 So, mongoose acts as an intermediate between your nodejs server and your MongoDB database, but what is MongoDB?
 
 MongoDB is a free, document based, database with a lot of flexability. MongoDB stores data in flexible, JSON-like documents, meaning data fields can vary from document to document and the data structure can be changed over time. This makes MongoDB very pleasant to work with, expecially when prototyping. 
@@ -26,7 +26,7 @@ Before we start, you need to setup your MongoDB database. You can, for example, 
 **2. Install Mongoose**
 After creating a MongoDB database, lets install [mongoose](https://www.npmjs.com/package/mongoose) to your nodejs server with the following command:
 
-```
+```javascript
 npm install mongoose
 ```
 
